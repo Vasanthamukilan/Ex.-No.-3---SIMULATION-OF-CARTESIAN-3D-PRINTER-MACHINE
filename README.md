@@ -59,7 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Uploading Screenshot 2023-05-23 113502.png…]()
+![Screenshot 2023-05-23 113502](https://github.com/Vasanthamukilan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119559694/7f29b75d-13aa-41c0-9470-d79409e51535)
 
 ### Name:Vasanthamukilan.M
 ### Register Number:212222230167
